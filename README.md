@@ -29,7 +29,20 @@ Next, open a new terminal and run the following command to serve the web interfa
 $ npm run reload        # this will serve the app @ localhost:8081 and refresh the page when there are updates 
 ```
 
-Now, open a new window in a web browser and enter *localhost:8081* in the address bar. This page will automatically refresh as you make updates to the *main.js* file in the steps below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Now, open a new window in a web browser and enter *localhost:8081* in the address bar. This page will automatically refresh as you make updates to the *main.js* file in the steps below.
 
 If you run into any problems while implementing this demo application, try opening the developer tools in the browser (Ctrl + Shift + I or F12) and checking the 'Console' tab.
 
@@ -177,3 +190,4 @@ function getSignerAddress(signedTx){
 [Bitcoin wiki on Secp256k1](https://en.bitcoin.it/wiki/Secp256k1)
 
 [Ethereum yellow paper](http://gavwood.com/paper.pdf)
+ -->
